@@ -1,0 +1,15 @@
+E:\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.exe
+E:\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.deps.json
+E:\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.json
+E:\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.runtimeconfig.dev.json
+E:\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.dll
+E:\BlackJack\BlackJack\bin\Debug\netcoreapp3.1\BlackJack.pdb
+E:\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csprojAssemblyReference.cache
+E:\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.Form1.resources
+E:\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.GenerateResource.cache
+E:\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfoInputs.cache
+E:\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.AssemblyInfo.cs
+E:\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.csproj.CoreCompileInputs.cache
+E:\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.dll
+E:\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.pdb
+E:\BlackJack\BlackJack\obj\Debug\netcoreapp3.1\BlackJack.genruntimeconfig.cache
